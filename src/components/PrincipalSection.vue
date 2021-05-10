@@ -18,18 +18,6 @@
           </v-container>
         </v-img>
       </v-col>
-      <v-col 
-        class="secondary my-4"
-        cols="12"
-      >
-        <v-container>
-          <v-row>
-            <v-col>
-              <h2>ey</h2>
-            </v-col>
-          </v-row>
-        </v-container>
-      </v-col>
     </v-row>
   </v-container>
 </template>

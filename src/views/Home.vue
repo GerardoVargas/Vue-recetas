@@ -1,15 +1,23 @@
 <template>
-  <PrincipalSection />
+  <div>
+    <PrincipalSection />
+    <Search />
+  </div>
+  
 </template>
 
 <script>
-  import { PrincipalSection } from '../components/index'
+  import { 
+    PrincipalSection,  
+    Search
+  } from '../components/index'
 
   export default {
     name: 'Home',
 
     components: {
       PrincipalSection,
+      Search
     },
   }
 </script>
