@@ -1,6 +1,6 @@
 <template>
  <div>
-    <v-app-bar app class="primary">
+    <v-app-bar app class="green lighten-1">
 
     <v-app-bar-nav-icon 
       class="hidden-lg-and-up" 
@@ -32,7 +32,6 @@
     </v-list>
   </v-navigation-drawer>
  </div>
-
 </template>
 
 <script>

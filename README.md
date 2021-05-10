@@ -1,4 +1,4 @@
-# recetas
+# comida
 
 ## Project setup
 ```

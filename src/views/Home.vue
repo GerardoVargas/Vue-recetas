@@ -1,15 +1,15 @@
 <template>
-  <hello-world />
+  <PrincipalSection />
 </template>
 
 <script>
-  import HelloWorld from '../components/HelloWorld'
+  import { PrincipalSection } from '../components/index'
 
   export default {
     name: 'Home',
 
     components: {
-      HelloWorld,
+      PrincipalSection,
     },
   }
 </script>
